@@ -107,4 +107,17 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
       end
 
     end
+    class Moon
+      def c
+      puts "
+         _.._
+        .' .-'`
+       /  /
+       |  |
+       |  '.___.;
+        '._  _.'
+           ``
+      "
+      end
+    end
   end
