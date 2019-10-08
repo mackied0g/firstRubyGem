@@ -86,6 +86,30 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
 
         "
       end
+
+
+
+
+      def dipsy
+      end
+
+
+
+
+
+      def lala
+      end
+
+
+
+
+
+      def tinkyWinky
+      end
+
+
+
+ 
       def monkey
         puts "
                 ┈┈╱▔▔▔▔▔╲┈┈┈HM┈HM
