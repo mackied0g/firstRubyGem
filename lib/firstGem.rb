@@ -85,7 +85,7 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
                `.-:///+++++/:.      `:+oossssssssoo/`
 
         "
-      end
+      end #end po
 
 
 
@@ -357,7 +357,7 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
     end #Teletubbies class end
 
 
- 
+ class MonkeyBusiness
       def monkey
         puts "
                 ┈┈╱▔▔▔▔▔╲┈┈┈HM┈HM
@@ -376,14 +376,8 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
                 ┈┈╲┈┈▕▔▔▔▔▏┈┈╱╲╲╲▏
                 ┈╱▔┈┈▕┈┈┈┈▏┈┈▔╲▔▔
                 ┈╲▂▂▂╱┈┈┈┈╲▂▂▂╱┈"
-      end
-
-
-
-
-
-
-    end #monkey end
+      end #monkey method end
+    end #monkey class end
 
   
     class Arthur
@@ -496,7 +490,7 @@ ooooooooooooooooooolllllllllllllllllllllllll:,codddddoooodl'.cdddddddddddddddddd
     class Moon
       def c
       puts "
-         _.._
+          _.._
         .' .-'`
        /  /
        |  |
@@ -674,6 +668,3 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 
   end #module end
-end
-
-  end
