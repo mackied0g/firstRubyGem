@@ -99,17 +99,17 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
                                                                                                                                                                                                                           
                                                                                                                                                                                                                           
                                                                                                                                                                                                                           
-                                                                                                    `--                                                                                                                    
-                                                                                                    ./:`                                                                                                                   
-                                                                                                    .//`                                                                                                                   
-                                                                                                    .//`                                                                                                                   
-                                                                                                    .//`                                                                                                                   
-                                                                                                    -//`                                                                                                                   
-                                                                                                    -//.                                                                                                                   
-                                                                                                    -//-                                                                                                                   
-                                                                                                    -//-                                                                                                                   
-                                                                                                    -//:                                                                                                                   
-                                                                                                    -//:                                                                                                                   
+                                                                                                   `--                                                                                                                    
+                                                                                                   ./:`                                                                                                                   
+                                                                                                   .//`                                                                                                                   
+                                                                                                   .//`                                                                                                                   
+                                                                                                   .//`                                                                                                                   
+                                                                                                   -//`                                                                                                                   
+                                                                                                   -//.                                                                                                                   
+                                                                                                   -//-                                                                                                                   
+                                                                                                   -//-                                                                                                                   
+                                                                                                   -//:                                                                                                                   
+                                                                                                   -//:                                                                                                                   
                                                                                                   `://:`                                                                                                                  
                                                                                                   `:///`                                                                                                                  
                                                                                                   `////`                                                                                                                  
@@ -203,24 +203,11 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
                                                                                       -/////+++//+//+//////.                                                                                                              
                                                                                       `:////++++++++//////:`                                                                                                              
                                                                                       `-//+++++++++++/////.                                                                                                               
-                                                                                                                       .//+++++++++++////:`                                                                                                               
-                                                                                                                       `//++++++++++++///.                                                                                                                
-                                                                                                                       `:/++++++++++++//:`                                                                                                                
-                                                                                                                        :/+++++++++++++/-                                                                                                                 
-                                                                                                                        -/+++++++++++++/:`                                                                                                                
-                                                                                                                        ./+++++++++++++//-`                                                                                                               
-                                                                                                                        `/++++++++++++////:.`                                                                                                             
-                                                                                                                        `//+++++++++++++////-`                                                                                                            
-                                                                                                                         :/+++++++++++++++///:.`                                                                                                          
-                                                                                                                         -/++++++++++++++++++//:`                                                                                                         
-                                                                                                                         `:/++++++++++++++++++//:`                                                                                                        
-                                                                                                                          `//+++++++++++++++++++/`                                                                                                        
-                                                                                                                           `-/++++++++++++++++++/`                                                                                                        
-                                                                                                                             `-://///////////::.`                                                                                                                                                                                                                                                        
+                                                                                                                       .//+++++++++++////:`                                                                                                                                                                                                                           `-://///////////::.`                                                                                                                                                                                                                                                        
         
         "
 
-
+        #dipsy end
       end
 
 
@@ -228,7 +215,7 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
 
 
       def lala
-      end
+      end #lala end
 
 
 
@@ -302,8 +289,8 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
 
               "
 
-      end
-
+      end #tinkyWinky end
+    end #Teletubbies class end
 
 
  
@@ -332,7 +319,7 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
 
 
 
-    end
+    end #monkey end
 
   
     class Arthur
@@ -438,8 +425,8 @@ ooooooooooooooooooolllllllllllllllllllllllll:,codddddoooodl'.cdddddddddddddddddd
 ''''',;'.;lllllllllllllllllcc::;;::ccc::::::ccccc:,;ldoooddl;'coddodddooooooooooooddooooooooooooolc:;;;;;:cclllllllccc:;;;;:,'coddodddooooooooooddddooooodddddoodddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddooooodddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 ','. ... 'clllllllllllllllc:;;;;:cccc:;;::cclccccc;,coddodo:',odddoddddddddoodddoodddodddddddoooooooollc:,,,,'',,,,,,,,;:codc''ldddddddddoodddoooddddooooddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddodddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 "
-      end
-    end
+      end #Arthur fist method end
+    end #Arthur class end 
 
   class FlavorTown
       def mayor
@@ -594,12 +581,15 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddl;,,........'''''.      .......;::clodxxdoc;,'....,ccc;;do:lxkkkkkOOOOOOkkkkkkkkkkdooxkkkdlllol:lkxl'.,clllodkOOOOOOOOkddxxxdoooooooddxxxkkkxxdddddddolcc:clc,....'',;:clcccccoxxdoccccc:;:cc
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddoc;;,..........''...  .......'',::;;;:dkOOkoc:;,'..:ll:cxoclodkOOOOkOOkkkkkkkkkOOOOkodOOOkdllllcokkd;..':lollldkOOOOOOOkdokOOOOOkkkOOOOkxdooolllloddddolccldxdl,.:c.....,;:cc:cdxxxolccc:;:cc"
 
-
-      end
-  end
-
+      end #mayor method end
+  end #Flavortown class end 
 
 
 
-end
-  end
+
+
+
+
+
+  
+  end #module end
