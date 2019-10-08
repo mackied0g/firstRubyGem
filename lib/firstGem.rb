@@ -925,6 +925,39 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
     end #end crazyFrogFrog
   end #CrazyFrog class
 
+    class PatStarfish
+      def EvilPatrick
+        puts "...........'','.'......................  ....................''.''....................   ..         
+        ...........','''''''............................................''.........................   .     
+        ............,:cccc::;;,'''.....................'........................''....... ...       ..  ....
+        ............;coooooooollc::;,,'.................................................   .                
+        .  .........';lolllooooooooollc::;,'.......'.................................     ...     .         
+        .........'....;cc:;:cooooooooooooolcc:;,,'......'.............     ..   .....   .  ..     ..     ...
+        ...............,;::;cloooolc::loooooooollc:;,''........'....... .........    ...           .   .    
+         ................,:clooooolc;;:looooooooooollcc:,'....... .................. ...   .         ..     
+          .................';clooooooloooooooc,:lllooooollcc:;'.......  ...........       ..      . ...     
+        ...  ...... ... ......';:cloooooooooc'.';,:looooooooollc:;,'.... ...... ...   ....               .  
+        ..       .         .  ..;:cllooooool;.....:loooooooooooooolc:;,'....     .... ...                .  
+        ...            .       ..;:clloooooc'.;,.,lolccclllcccloooooollc:;'....  .....                     .
+        ......              ..   ...,;::::cc;:c,':c:cdk0KKK0Odc;:clooooooolc:;,....                         
+        .......            ...       ..',;:loolcc::xXNWWWWWWWNKl,,;looooooooollc:,'..... ...................
+        .. ....     ..... ..   ...    .';;clooooc;xNWWWWWWWWWNOc;''::;:loooooolcc:;;,'',,,;;;;:::ccccccccccc
+         ..... ....  ..  .....  ..   ..,:cccclll::kNWWWXkdoxOd:c:'';'.,coooooolccccclllllooooooooooooooooooo
+         .     ......       ..       ..';:lx0KXKOddKNWXl.  .,coxc';c;.':oooooooooooooooooooooooooooooooooooo
+          ...  .        ......      ....'dXWWWWWWNxlodo:';:cdxo:,:l:'.':ooooooooooooooooooooooooollloooooooo
+          ...             ....      ..'.:0WWWWWWWNd;::;;:cllc:::lol,..':ooooooooooooooooooooooooc;;;cooooooo
+        ...                ...  .... ...cKNXklokkoclo:',:cc:cloooc,...,looooooooooooooooooooooooolcllooooooo
+        ..                  .     ...   ,x0d' .,:ldxo::loooooool:'...'cooooooooooooooooooooooooooooooooooooo
+           .                     ..     'cl:;:odxxoc;clooooooc;'....':oooooooooooooooooooooooooooooooooooooo
+          ..                ...         .....,:cc:::looolc::,'.....,cooooooooooooooooooooooooooooooooooooooo
+         ..                 ..              .',;:llcc:;,'.......,;cooooooooooooooooooooooooooooooooooooooooo
+        .            .                   ..,:;,',;,'.....'',,;:clllloooooooooooooooooooooooooooooooooooooooo
+        .             .           ..   .';cllc;:llcc::ccclllllcccccloooooooooooooooooooooooooooooooooooooooo
+         .       ....                .';cloool::loooooooooooooloooooooooooooooooooooooooooooooooooooooooolcc
+        .   .                     ..';cloooool::looooooooooooooooooooooooooooooooooooooooooooooooooooolccccl
+        .                         .':looooooooc:loooooooooooooooooooooooooooooooooooooooooooooooddoooolllooo"
+      end 
+    end 
 
 
 
