@@ -492,6 +492,22 @@ ooooooooooooooooooolllllllllllllllllllllllll:,codddddoooodl'.cdddddddddddddddddd
       end #Arthur fist method end
     end #Arthur class end 
 
+  
+    class Moon
+      def c
+      puts "
+         _.._
+        .' .-'`
+       /  /
+       |  |
+       |  '.___.;
+        '._  _.'
+           ``
+      "
+      end
+    end
+
+
   class FlavorTown
       def mayor
         puts "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -656,4 +672,8 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 
 
+
   end #module end
+end
+
+  end
