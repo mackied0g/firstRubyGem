@@ -661,9 +661,9 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddo:,,....,;;;;,'.....   ...... .,:;:lodollc;,'.....;cc:;''lolxOkkkkkkkkkkkOOOOOOOkxoodkkkxolllol:,:xkc,:llodxkOOOOOOkkxoccccc:::::::::::ccloxkkkOOOkkxdlccc;'.....,:loolccc::c:coddol::ccc::ccc
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddl;,,........'''''.      .......;::clodxxdoc;,'....,ccc;;do:lxkkkkkOOOOOOkkkkkkkkkkdooxkkkdlllol:lkxl'.,clllodkOOOOOOOOkddxxxdoooooooddxxxkkkxxdddddddolcc:clc,....'',;:clcccccoxxdoccccc:;:cc
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddoc;;,..........''...  .......'',::;;;:dkOOkoc:;,'..:ll:cxoclodkOOOOkOOkkkkkkkkkOOOOkodOOOkdllllcokkd;..':lollldkOOOOOOOkdokOOOOOkkkOOOOkxdooolllloddddolccldxdl,.:c.....,;:cc:cdxxxolccc:;:cc"
-
-      end
-  end
+  
+end #mayor method end
+end #Flavortown class end 
 
 
   class CohortLogos
@@ -719,12 +719,8 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"
-      end
-  end
-
-
-      end #mayor method end
-  end #Flavortown class end 
+      end #end chili
+  end #cohort
 
 
   class Shrek
