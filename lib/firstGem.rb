@@ -1057,5 +1057,31 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
       end
     end
 
-
+    class MickeyMouse
+      def mickey
+        puts "                    _____
+                              .d00000000bo.
+                            .d0000000000000b.
+                            00000000000000000
+                            000000000000000000
+                            000000000000000000
+                            Y0000000000000000
+                      ,od000000000000000000P
+                    .'`Y0P'```'Y0000000000P'
+                  .'_   `  _     'Y00000000b
+                /  _`    _ `      Y00000000b    ____
+              _  | /  \  /  \      0000000000.d000000b.
+            d0b | | /|  | /|      0000000000d0000000000b
+            0000_\ \_|/  \_|/      d000000000000000000000b
+            .Y0P  `'-.            d00000000000000000000000
+          /          `          `      `Y0000000000000000
+          |                        __    000000000000000P
+            \                       / `   dPY0000000000P'
+            '._                  .'     .'  `Y000000P`
+                `''-.,__    ___.-'    .-'
+                    `-._````  __..--'`
+                        `````
+        "
+      end # end mickey method
+    end # end MickeyMouse class
   end #module end
