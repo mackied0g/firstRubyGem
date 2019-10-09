@@ -2,11 +2,11 @@ module FirstGem
     class Teletubby
       def po
         puts "
-                                              ./+oooo+:.`
-                                            `/ssssoosyys+-
-                                            :sss/`  `-oyys:
-                                            +yss/`     /yyo`
-                                            .oyys+.```.+sss`
+                                               ./+oooo+:.`
+                                             `/ssssoosyys+-
+                                             :sss/`  `-oyys:
+                                             +yss/`     /yyo`
+                                             .oyys+.```.+sss`
                                              `/syysoosssys:
                                                .+yssyso/-`
                                                 :sss/``
@@ -206,7 +206,11 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
                                                                                       //+++++++++++++////:`
                                                                                      //+++++++++++////:`
                                                                                      /++++++++////:`
-        "
+                                                                                     //////////:
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     "
 
         #dipsy end
       end
