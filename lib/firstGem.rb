@@ -2,11 +2,11 @@ module FirstGem
     class Teletubby
       def po
         puts "
-                                              ./+oooo+:.`
-                                            `/ssssoosyys+-
-                                            :sss/`  `-oyys:
-                                            +yss/`     /yyo`
-                                            .oyys+.```.+sss`
+                                               ./+oooo+:.`
+                                             `/ssssoosyys+-
+                                             :sss/`  `-oyys:
+                                             +yss/`     /yyo`
+                                             .oyys+.```.+sss`
                                              `/syysoosssys:
                                                .+yssyso/-`
                                                 :sss/``
@@ -192,14 +192,25 @@ odddhhyyyyyy/`   ..-/yhyy:..````.:++o+.``````.-://--::-....:sss``.---`
           `:syy+++++++++++/:.``                                                  `:///////////////////////////.                                                                                                           
             .oyy+++++/+/-.``                                                      `://///////////////////////:`                                                                                                           
               `/ys+//:-.``                                                          `:////////////////////////.                                                                                                            
-              `.:-.``                                                               `://///+////////////////-`                                                                                                            
-                                                                                      .//////+//////////////:`                                                                                                             
+              `.:-.``                                                               `://////////////////////-`                                                                                                            
+                                                                                      ./////////////////////:`                                                                                                             
                                                                                       -/////+++//+//+//////.                                                                                                              
                                                                                       `:////++++++++//////:`                                                                                                              
                                                                                       `-//+++++++++++/////.                                                                                                               
-                                                                                                                       .//+++++++++++////:`                                                                                                                                                                                                                           `-://///////////::.`                                                                                                                                                                                                                                                        
-        
-        "
+                                                                                      .//+++++++++++////:`                                                                                                                                                                                                                           `-://///////////::.`                                                                                                                                                                                                                                                        
+                                                                                       //++++++++++++++////:`
+                                                                                       //++++++++++++++++////:`
+                                                                                       //++++++++++++++++++////:`
+                                                                                       //+++++++++++++++++////:`
+                                                                                      //++++++++++++++++////:`
+                                                                                      //+++++++++++++////:`
+                                                                                     //+++++++++++////:`
+                                                                                     /++++++++////:`
+                                                                                     //////////:
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     "
 
         #dipsy end
       end
@@ -654,9 +665,9 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddo:,,....,;;;;,'.....   ...... .,:;:lodollc;,'.....;cc:;''lolxOkkkkkkkkkkkOOOOOOOkxoodkkkxolllol:,:xkc,:llodxkOOOOOOkkxoccccc:::::::::::ccloxkkkOOOkkxdlccc;'.....,:loolccc::c:coddol::ccc::ccc
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddl;,,........'''''.      .......;::clodxxdoc;,'....,ccc;;do:lxkkkkkOOOOOOkkkkkkkkkkdooxkkkdlllol:lkxl'.,clllodkOOOOOOOOkddxxxdoooooooddxxxkkkxxdddddddolcc:clc,....'',;:clcccccoxxdoccccc:;:cc
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddoc;;,..........''...  .......'',::;;;:dkOOkoc:;,'..:ll:cxoclodkOOOOkOOkkkkkkkkkOOOOkodOOOkdllllcokkd;..':lollldkOOOOOOOkdokOOOOOkkkOOOOkxdooolllloddddolccldxdl,.:c.....,;:cc:cdxxxolccc:;:cc"
-
-      end
-  end
+  
+end #mayor method end
+end #Flavortown class end 
 
 
   class CohortLogos
@@ -712,12 +723,8 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"
-      end
-  end
-
-
-      end #mayor method end
-  end #Flavortown class end 
+      end #end chili
+  end #cohort
 
 
   class Shrek
@@ -856,7 +863,7 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
                                                                                                             `:oydmmmmmmNNNNNmmmho:`                                                                                                                        
                                                                                                                 `.:+ossssso/:.`                                                                                                                            
                                                                                                                                                                                                                                                   
-      
+
       "
 
     end #shrek def
@@ -1054,10 +1061,31 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
       end
     end
 
-
-
-
-
-
+    class MickeyMouse
+      def mickey
+        puts "                    _____
+                              .d00000000bo.
+                            .d0000000000000b.
+                            00000000000000000
+                            000000000000000000
+                            000000000000000000
+                            Y0000000000000000
+                      ,od000000000000000000P
+                    .'`Y0P'```'Y0000000000P'
+                  .'_   `  _     'Y00000000b
+                /  _`    _ `      Y00000000b    ____
+              _  | /  \  /  \      0000000000.d000000b.
+            d0b | | /|  | /|      0000000000d0000000000b
+            0000_\ \_|/  \_|/      d000000000000000000000b
+            .Y0P  `'-.            d00000000000000000000000
+          /          `          `      `Y0000000000000000
+          |                        __    000000000000000P
+            \                       / `   dPY0000000000P'
+            '._                  .'     .'  `Y000000P`
+                `''-.,__    ___.-'    .-'
+                    `-._````  __..--'`
+                        `````
+        "
+      end # end mickey method
+    end # end MickeyMouse class
   end #module end
-
