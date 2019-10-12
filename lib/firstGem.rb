@@ -1058,8 +1058,8 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
         '.  | fourth_floor ||..___..||`--._   ||
         '.|____________________|     `--._||
         "
-      end
-    end
+      end # end keg method
+    end # end AlwaysEmpty class
 
     class MickeyMouse
       def mickey
@@ -1088,4 +1088,46 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
         "
       end # end mickey method
     end # end MickeyMouse class
-  end #module end
+
+    class Laptop
+      def ourBestfriend
+        puts "
+        .-----------------------===------------------------.
+        :o  ______________________________________________  o:
+        ;   :                                            :   ;
+        `.  `.                                          .'  .'
+         :   :                                          :   :
+         `.  `.                                        .'  .'
+          :   :                                        :   :
+          `.  `.                                      .'  .'
+           :   :                                      :   :
+           `.  `.                                    .'  .'
+            :   :                                    :   :
+            `.  `.                                  .'  .'
+             :   :__________________________________:   :
+             `.                 ~MAC~                  .'
+              '-------------|  |-----|  |--------------'
+             .--------------|  |=====|  |--------------.
+             |  ()          '-----------'      o   ()  |
+             |   ___________________________________   |
+             |  :__|__|__|__|__|__|__|__|__|__|__|__:  |
+             |  |___|__|__|__|__|__|__|__|__|__|__|_|  |
+             |  |__|_|__|__|__|__|__|__|__|__|__|___|  |
+             |  |___|__|__|__|__|__|__|__|__|__|____|  |
+             |  |____|__|__|__|__|__|__|___|__|__|__|  |
+             |  :___|__|___________________|__|__|__:  |
+             |                                         |
+             |             .-------------.             |
+             |             |             |             |
+             |             |             |             |
+             |             |_____________|             |
+             |             |             |             |
+             |             |             |             |
+             |             '.___________.'             |
+             |                   ___                   |
+             '-----------------------------------------'
+             "
+      end # end bestfriend method
+    end # end Laptop class
+
+end #module end
