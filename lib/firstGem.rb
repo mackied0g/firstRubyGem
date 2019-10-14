@@ -1130,4 +1130,38 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
       end # end bestfriend method
     end # end Laptop class
 
+    class SurprisePikachu
+      def pika
+        puts "/n
+        yyyyyyyyyyhyoooooydy+:::-:::::::/oyhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhhsooooooooosssssso+//:::::
+        yyyyyyyyyhhsooooooyhs/:::::::::::::/osyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhyoooosssssso+//::::::::::
+        yyyyyyyyhhysssssssssys/::::::::::::::/+syyyyyyssyyyyyyyyyyyyyyyyyyyyyyyyyyhhysssso+//:::::::::::::::
+        yyyyyyyhdhyyyyyyyyyssyyo/:::::::::::::::/osyyyysyyyyysssyyyyyyyyyyyyyyyyyyhyyo+/:::::::::::::::::::/
+        yyyyyyydhyyyyhhhhhhysyhys+:::::::::::::::::/osyyyyyyyyyssssssssssssssooo++//::::::::::::::::::::::/o
+        yyyyyyddhyyhhhhhhhhhyyyhhys/:::::::::::::::::::////:::::::::::::::::::::::::::::::::::::::::::::/+os
+        yyyyyhdhhhhhhhhhhhhhhhyyhhhyo/::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::+ossss
+        yyyyyddhhhhhhhhhhhhhhhhhhhhhhs+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::/osyyyyyy
+        yyyyhdhyhhhhhhhhhhhhhhhhhhhhhhhyo++/::::::::::::::::::::::::::::::::::::::::::::::::::::/+oyyyyyhhhh
+        yyyhddhhhhhhhhhhhhhhhhhhhhhhhhhdhs/::::::::::::::::::::::::::::::::::::::::::::::::/+++osyyyyyyyyhhh
+        yyyddhhhhhhhhhhhhhhhhhddddddhhhdy+:::::::::::::::::::::::::::::::::::::::::::::::::/+syyyyyyyyyyhhhh
+        yyhddhhhhhhhhhhhhhhhhdddmmmdhhdho:::::::::::::::::::::::::::::::::::::///:::::::::::/oyyyyyyyyyyyhhh
+        yyddhhhhhhhhhhhhhhhhhddmmmdhhhds/::::::+++syo/:::::::::::::::::::::/++oyys+::::::::::/oyyyyyyyyyyyyy
+        yhdhhhhhhhhhhhhhhhhhhhhhhhhyhhh+::::::/so+sdds/::::::::::::::::::::+s++ydds+::::::::::/shhyysssssssy
+        hddhhhhddddddddddhhhhhhhhyyyhhs/::::::/shhdmmy+::::::::::::::::::::+yhdmmds/:::::::::::/yhysssssssss
+        dmdhhdddmmmmmmmmmmdhhhhhyyyyhh+:::::::::+ossso/:::::::::::::::::::::/+osso+:::::::::::::oyysssssssss
+        mdhhhddmmmmmmmmmmmdhhhyyyyyhhs/::::::--:::::::::::/+osso+:::::::::::::::::::::::::::::::+yysssssssss
+        dhhhhdddmmmmmmmmmmdhhyyyyyyhdysoo+/:::::::::::::::::/oso+:::::::::::::::::::///////:::::/oysssssssss
+        hyhhhhhhhhhhhhhhhhyyyyyyyyhddyyyyyso/::::::::::::::::::::::::::::::::::::::+ssssssso/::::+yyssssssss
+        hyyhhhhhyyyyyyyyyssyyyyyyyddysooosss+:::::::::::::::::::::::::::::::::::::/osssssssso/:::/oyysssssss
+        hhhhhhhhhhhhhhhhyyssyyyyyhddysssssss/:::::::::::::+osyyssooo+/::::::::::::+sssoooosso/::::/yhyyyyyyy
+        hhhhhhhhhhhhhhhhhhyyyyyyyddhyyyssso+:::::::::::::+yhhso+++++oo/:::::::::::/ossssssso+::::::oyyyyyyyy
+        yyhhhhhhhhhhhhhhhhhhhhhhhdho/++o++/::::::::::::::/syo+//////+o+::::::::::::/++oooo+/:::::::/sysssssy
+        yhhhhhhhhhhhhhhhhhhhhhhhhhdy/:::::::::::::::::::::oss+//////oo+:::::::::::::::::::::::::::::+ysossss
+        yyyyyyhhhhhhhhhyyhhhhhhhhhhhs/:::::::::::::::::::::+osooooosso/:::::::::::::::::::::::::::::/sysssyy
+        yhhyyysyyyyssssssssssssssssyys/::::::::::::::::::::::://++////:::::::::::::::::::::::::::::::oyyyyyy
+        hhhhhyyssssssssssssssssssssyyyo/:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::/yyyyyy
+        hhhhhhhhhhyyyyssssssssssyyyhyyyo/::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::/shyyyy"
+      end #end pika method
+    end #end SurprisePikachu class
+
 end #module end
