@@ -4,7 +4,7 @@ This is a fun project I started October 8th, 2019, on my train ride into school.
 
 ### What does it do? 
 
-It's a fun way to bundle ASCII artwork into your backend Ruby files. This gem is lightweight and doesn't take up much memory or speed at all. 
+It's a fun way to bundle ASCII artwork into your backend Ruby files. This gem is lightweight and doesn't take up much memory or speed at all. This is more of a portal for new and seasoned Rubyists alike to participate in an Open Source project in a lighthearted, creative, fun way.
 
 ## RULES
 
