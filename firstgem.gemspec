@@ -8,5 +8,6 @@
     s.email       = 'mackenzieerinpech@gmail.com'
     s.files       = ["lib/firstGem.rb"
     ]
+    # shoot
     s.require_paths = ["lib"]
   end
