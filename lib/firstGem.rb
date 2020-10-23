@@ -2,6 +2,7 @@ module FirstGem
     class Teletubby
       def po
         puts "
+        howdyhowdy
                                                ./+oooo+:.`
                                              `/ssssoosyys+-
                                              :sss/`  `-oyys:
